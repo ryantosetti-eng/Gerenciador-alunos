@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "matricula": "2026B12",
+    "nome": "ANA BEATRIZ SOUZA",
+    "turma": "2B",
+    "data": "2026-11-05",
+    "presente": true,
+    "motivoSaida": "BIBLIOTECA",
+    "minutosFora": 20,
+    "alertaTempo": true
+  },
+  {
+    "id": 2,
+    "matricula": "2026B12",
+    "nome": "Test",
+    "turma": "2B",
+    "data": "2026-11-05",
+    "presente": true,
+    "motivoSaida": "BIBLIOTECA",
+    "minutosFora": 20
+  }
+]
